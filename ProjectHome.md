@@ -1,0 +1,1 @@
+Realiza o agendamento e envia a confirmação para o celular sobre o evento.
